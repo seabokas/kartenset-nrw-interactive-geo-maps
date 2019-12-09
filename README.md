@@ -16,7 +16,7 @@ Einfach die ZIP-Datei im Plugin-Ordner <code>wp-content/plugins/interactive-geo-
 
 # Änderungen
 
-## [0.0.1]
+### [0.0.1]
 * Erstveröffentlichung
 
 
