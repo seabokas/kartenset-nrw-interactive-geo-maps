@@ -14,10 +14,13 @@ Einfach die ZIP-Datei im Plugin-Ordner <code>wp-content/plugins/interactive-geo-
 * Deutschland - NRW - Regierungsbezirk Münster
 * Deutschland - NRW - Regierungsbezirk Münster - Stadt Gelsenkirchen (Stadtbezirke und Stadtteile)
 
-# Änderungen
+## Änderungen
 
 ### [0.0.1]
 * Erstveröffentlichung
+
+
+---
 
 
 # :us:
@@ -36,7 +39,7 @@ Simply unzip the ZIP file in the plugin folder <code>wp-content/plugins/interact
 * Germany - NRW - Münster Government Region
 * Germany - NRW - Münster Government Region - City of Gelsenkirchen (Districts and City Districts)
 
-# Changelog
+## Changelog
 
 ### [0.0.1]
 * Initial Release
