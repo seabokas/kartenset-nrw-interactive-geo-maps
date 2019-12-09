@@ -1,4 +1,6 @@
-# :de: - Erweiterung Kartenset Nordrhein-Westfalen (NRW)<br/>für das WordPress-Plugin "Interactive Geo Maps"
+# :de:
+
+## Erweiterung Kartenset Nordrhein-Westfalen (NRW)<br/>für das WordPress-Plugin "Interactive Geo Maps"
 
 ### Installation
 Einfach die ZIP-Datei im Plugin-Ordner <code>wp-content/plugins/interactive-geo-maps/</code> entpacken und vorhandene Dateien überschreiben.
@@ -13,7 +15,9 @@ Einfach die ZIP-Datei im Plugin-Ordner <code>wp-content/plugins/interactive-geo-
 * Deutschland - NRW - Regierungsbezirk Münster - Stadt Gelsenkirchen (Stadtbezirke und Stadtteile)
 
 
-# :us: - Extension map set North Rhine-Westphalia (NRW)<br/>for the WordPress-Plugin "Interactive Geo Maps"
+# :us:
+
+## Extension map set North Rhine-Westphalia (NRW)<br/>for the WordPress-Plugin "Interactive Geo Maps"
 
 ### Installation
 Simply unzip the ZIP file in the plugin folder <code>wp-content/plugins/interactive-geo-maps/</code> and overwrite existing files.
