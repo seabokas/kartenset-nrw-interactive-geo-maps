@@ -38,7 +38,7 @@ Simply unzip the ZIP file in the plugin folder <code>wp-content/plugins/interact
 
 # Changelog
 
-## [0.0.1]
+### [0.0.1]
 * Initial Release
 
 [0.0.1]: https://github.com/seabokas/kartenset-nrw-interactive-geo-maps/archive/0.0.1.zip
